@@ -1,0 +1,32 @@
+{
+  "name": "expense-tracker-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.4",
+    "axios": "^1.7.9",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "cashfree-pg": "^4.3.6",
+    "cashfree-sdk": "^0.1.1",
+    "cls": "^0.1.5",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.5",
+    "razorpay": "^2.9.5",
+    "sequelize": "^6.37.5",
+    "sib-api-v3-sdk": "^8.5.0",
+    "uuid": "^11.0.5"
+  }
+}

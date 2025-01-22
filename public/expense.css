@@ -1,0 +1,38 @@
+#premiumButton {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    border-radius: 5px;
+  }
+  .premium-message {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background-color: #f0f8ff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    z-index: 1000;
+  }
+  #leadership {display:none;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  #leadership h1 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  #leadership li {
+    margin: 5px 0;
+  }
+  #leadershipButton {
+    position: fixed;
+    top: 20px;
+    right: 120px;
+    z-index: 1000;
+    border-radius: 5px;
+  }
